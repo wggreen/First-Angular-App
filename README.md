@@ -1,3 +1,59 @@
-# FirstAngularApp
+# First Angular App
 
 This project was created as part of Section 2 "Angular Essentials - Components, Templates, Services & More" of the Udemy class ["Angular - The Complete Guide (2025 Edition)"](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
+
+- Module Introduction
+- A New Starting Project & Analyzing The Project Structure
+- Understanding Components & How Content Ends Up On The Screen
+- Creating a First Custom Component
+- [Optional] JavaScript Refresher: Classes, Properties & More
+- Configuring the Custom Component
+- Using the Custom Component
+- Styling the Header Component & Adding An Image
+- Managing & Creating Components with the Angular CLI
+- Styling & Using Our Next Custom Component
+- Preparing User Data (To Output Dynamic Content)
+- Storing Data in a Component Class
+- Outputting Dynamic Content with String Interpolation
+- Property Binding & Outputting Computed Values
+- Attribute Binding
+- Using Getters For Computed Values
+- Listening to Events with Event Binding
+- Managing State & Changing Data
+- A Look Behind The Scenes Of Angular's Change Detection Mechanism
+- Introducing Signals
+- We Need More Flexible Components!
+- Defining Component Inputs
+- Required & Optional Inputs
+- Using Signal Inputs
+- We Need Custom Events!
+- Working with Outputs & Emitting Data
+- Using the output() Function
+- Adding Extra Type Information To EventEmitter
+- Exercise: Create a Configurable Component
+- TypeScript: Working With Potentially Undefined Values & Union Types
+- Accepting Objects As Inputs & Adding Appropriate Typings
+- TypeScript: Type Aliases & Interfaces
+- Outputting List Content
+- Outputting Conditional Content
+- Legacy Angular: Using ngFor & ngIf
+- Adding More Components to the Demo App
+- Outputting User-specific Tasks
+- Outputting Task Data in the Task Component
+- Storing Data Models in Separate Files
+- Dynamic CSS Styling with Class Bindings
+- More Component Communication: Deleting Tasks
+- Creating & Conditionally Rendering Another Component
+- Managing The "New Task" Dialog
+- Using Directives & Two-Way-Binding
+- Signals & Two-Way-Binding
+- Handling Form Submission
+- Using the Submitted Data
+- Content Projection with ng-content
+- Transforming Template Data with Pipes
+- Getting Started with Services
+- Getting Started with Dependency Injection
+- More Service Usage & Alternative Dependency Injection Mechanism
+- Time to Practice: Services
+- Using localStorage for Data Storage
+- Module Summary
