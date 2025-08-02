@@ -1,7 +1,8 @@
 # First Angular App
 
-This project was created as part of Section 2 "Angular Essentials - Components, Templates, Services & More" of the Udemy class ["Angular - The Complete Guide (2025 Edition)"](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
+This project was created as part of Sections 2 & 3 of the Udemy class ["Angular - The Complete Guide (2025 Edition)"](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
 
+## Section 2 ("Angular Essentials - Components, Templates, Services & More"):
 - Module Introduction
 - A New Starting Project & Analyzing The Project Structure
 - Understanding Components & How Content Ends Up On The Screen
@@ -57,3 +58,15 @@ This project was created as part of Section 2 "Angular Essentials - Components, 
 - Time to Practice: Services
 - Using localStorage for Data Storage
 - Module Summary
+
+## Section 3 ("Working with Modules"):
+- Module Introduction
+- A First Introduction To Angular Modules (NgModule)
+- Angular 19, Standalone Components & Modules
+- Creating a First Empty Module
+- Bootstrapping Apps with Angular Modules
+- Declaring & Using Components
+- A First Summary
+- Migrating All Components To Use Modules
+- Creating & Using Shared Modules
+- Creating More Complex Module-based App Structures
